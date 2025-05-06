@@ -5,6 +5,8 @@ Tenho como foco o aprimoramento contínuo das minhas habilidades e já adquiri e
 
 Além disso, faço parte do Movimento Escoteiro desde 2017 e conquistei a insígnia máxima do Ramo Sênior, um reconhecimento que exige um alto nível de disciplina, dedicação e liderança. Essa trajetória fortaleceu muito minha formação pessoal e meu senso de compromisso.
 
+[Linkedin](www.linkedin.com/in/felipe-buitrago-3225b1364).
+
 # 2.Currículo
 
 ## Formação acadêmica:
