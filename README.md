@@ -10,7 +10,7 @@ Além disso, faço parte do Movimento Escoteiro desde 2017 e conquistei a insíg
 ## Formação acadêmica:
 Graduação em Ciência da Computação - UniCeub
 *  Início em 2025 - cursando o 1° semestre
-
+* * *
 ## Habilidades Técnicas: 
 *  Linguagens de programação: `C` (básico), `Python` (básico)
 *  Prática em `estrutura de dados` e `algoritmos básicos`
