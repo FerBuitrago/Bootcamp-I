@@ -1,4 +1,4 @@
-1.Biografia
+
 Olá! Meu nome é Felipe Buitrago. Atualmente, estou no 1º semestre de Ciência da Computação no Centro Universitário de Brasília (UniCEUB) e tenho prática nas linguagens C e Python.
 
 Tenho como foco o aprimoramento contínuo das minhas habilidades e já adquiri experiência com gerenciamento de equipe, o que contribui para meu desenvolvimento pessoal e profissional.
@@ -7,7 +7,7 @@ Além disso, faço parte do Movimento Escoteiro desde 2017 e conquistei a insíg
 
 [Linkedin](www.linkedin.com/in/felipe-buitrago-3225b1364).
 
-# 2.Currículo
+# Currículo
 
 ## Formação acadêmica:
 Graduação em Ciência da Computação - UniCeub
@@ -27,13 +27,13 @@ Graduação em Ciência da Computação - UniCeub
 *  Organização e disciplina
 *  Comunicação eficiente
 
-# 3. Projetos Acadêmicos e pessoais
+# Projetos Acadêmicos e pessoais
 
 ##   Projeto Social – Cabide solidário 
   
   Projeto social arquitetado e organizado por mim enquanto membro do Grupo Escoteiro Lis do Lago 15°DF que buscou trazer melhores condições para pessoas impactadas durante a pandemia da COVID-19. Este projeto ganhou um prêmio de ação comunitária de 2020, prêmio organizado pelos escoteiros do DF, no qual obteve terceiro lugar do DF
 
-#  4. Habilidades e Competências
+#  Habilidades e Competências
 *  Pensamento lógico e resolução de problemas
 *  Proatividade e iniciativa
 *  Boa capacidade de liderança e organização de equipes
