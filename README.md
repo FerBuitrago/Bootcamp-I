@@ -1,4 +1,3 @@
-# Felipe Ramos Rodrigues Buitrago
 # 1.Biografia
 Olá! Meu nome é Felipe Buitrago. Atualmente, estou no 1º semestre de Ciência da Computação no Centro Universitário de Brasília (UniCEUB) e tenho prática nas linguagens C e Python.
 
